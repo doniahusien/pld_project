@@ -1,0 +1,13 @@
+C:\Users\user\Source\Repos\pld\pld\bin\Debug\pld.exe.config
+C:\Users\user\Source\Repos\pld\pld\bin\Debug\pld.exe
+C:\Users\user\Source\Repos\pld\pld\bin\Debug\pld.pdb
+C:\Users\user\Source\Repos\pld\pld\bin\Debug\CalithaLib.dll
+C:\Users\user\Source\Repos\pld\pld\bin\Debug\GoldParserEngine.dll
+C:\Users\user\Source\Repos\pld\pld\obj\Debug\pld.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\pld\pld\obj\Debug\pld.Form1.resources
+C:\Users\user\Source\Repos\pld\pld\obj\Debug\pld.Properties.Resources.resources
+C:\Users\user\Source\Repos\pld\pld\obj\Debug\pld.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\pld\pld\obj\Debug\pld.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\pld\pld\obj\Debug\pld.csproj.Up2Date
+C:\Users\user\Source\Repos\pld\pld\obj\Debug\pld.exe
+C:\Users\user\Source\Repos\pld\pld\obj\Debug\pld.pdb
